@@ -1,4 +1,4 @@
-# Firefox Tab Backup Extension
+# Firefox Tab Backup Extension.
 
 Bu Firefox eklentisi, açık olan sekmeleri otomatik olarak düzenli aralıklarla yedekler ve kazara kaybedilen sekmeleri geri yüklemenizi sağlar.
 
